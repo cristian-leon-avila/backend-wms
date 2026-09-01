@@ -12,3 +12,4 @@ El diagrama de contexto muestra las fronteras de nuestro sistema WMS y con quié
 
 ## Nivel 2: Diagrama de Contenedores (Container Diagram)
 Define la pila tecnológica y los componentes ejecutables independientes que componen el WMS.
+![Diagrama de Contenedores](modelos/C4/Diagrama_de_Contenedores.png)
